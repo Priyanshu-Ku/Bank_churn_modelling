@@ -1,7 +1,7 @@
 # Customer Churn Prediction App
 
 Live Demo:
-[https://your-app-name.streamlit.app/](https://ann-customer-churn-007.streamlit.app/)
+[Customer Churn Prediction Using ANN](https://ann-customer-churn-007.streamlit.app/)
 
 ## Features
 - Churn prediction
